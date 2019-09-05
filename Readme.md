@@ -12,3 +12,6 @@
 **Undergraduate School**: [University of Washington](https://www.washington.edu/)
 
 **Graduate School**: [Columbia University](https://www.columbia.edu/)/ [Lamont-Doherty Earth Observatory](https://www.ldeo.columbia.edu/)
+
+## Research Interests
+My research interests are in marine geophysics. I am particularly interested in using marine seismics to understand seafloor volcanic and hydrothermal systems. I am currently doing research on using marine seismics to map the magma beneath the rift zones of Axial Seamount located on the Juan de Fuca Ridge. 
